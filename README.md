@@ -3,9 +3,9 @@
 A Next.js app for loading Spotify playlists as editable JSON, transforming them with natural-language prompts (via [Ollama](https://ollama.com)), and creating new playlists on your account.
 
 <img src="screenshots/spot-filter.png" width="100%" alt="Screenshot">
-<div style="display: flex; align-items: flex-start; gap: 1em;">
-  <img src="screenshots/spot-filter-timeline.png" width="30%" alt="Timeline view">
-  <img src="screenshots/spot-filter-json.png" width="60%" alt="JSON view">
+<div style="display: flex; align-items: flex-start; gap: 2em;">
+  <img src="screenshots/spot-filter-timeline.png" width="30%" alt="Timeline view" style="vertical-align: top;">
+  <img src="screenshots/spot-filter-json.png" width="60%" alt="JSON view" style="vertical-align: top;">
 </div>
 
 ## Features
