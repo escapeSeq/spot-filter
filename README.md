@@ -2,6 +2,8 @@
 
 A Next.js app for loading Spotify playlists as editable JSON, transforming them with natural-language prompts (via [Ollama](https://ollama.com)), and creating new playlists on your account.
 
+<img src="screenshots/spot-filter.png" width="45%" alt="Screenshot">
+
 ## Features
 
 - **Spotify OAuth** — log in, browse your playlists, or paste a playlist URL/URI/ID
